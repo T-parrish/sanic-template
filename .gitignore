@@ -1,0 +1,10 @@
+__pycache__*
+.vscode
+client_secret.json
+notebooks
+*.pyc
+*.pickle
+noodling
+app.yaml
+cloud_sql_proxy
+env/prod.sh
